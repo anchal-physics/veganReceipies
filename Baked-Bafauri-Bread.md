@@ -2,6 +2,8 @@
 
 <img src="./images/BakedBafauriUncut.jpg" alt="Uncut" width="440"/> <img src="./images/BakedBafauriCut.jpg" alt="Cut" width="479"/>
 
+This is a modified version of taditional dish Bafauri from central India. I sort of invented it with my mom 4 years ago. Generally, the batter is steamed to make what is called Bafauri. But I really like the baked version of it which gives it a bread like texture. This is a savoury snack, very healthy and you wouldn't be able to stop yourself from eating it endlessly.
+
 ## Ingredients
 * Split-Moong daal (1 cup)
 * Rice (1/3 cup)
