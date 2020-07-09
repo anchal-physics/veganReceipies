@@ -1,5 +1,7 @@
 # Baked Bafauri Bread (Moong Bread)
 
+![BakedBafauriUncut.jpg](images/BakedBafauriUncut)![BakedBafauriCut](images/BakedBafauriUncut.jpg)
+
 ## Ingredients
 * Split-Moong daal (1 cup)
 * Rice (1/3 cup)
