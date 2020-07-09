@@ -1,6 +1,8 @@
 # Baked Bafauri Bread (Moong Bread)
 
-![BakedBafauriUncut.jpg](images/BakedBafauriUncut)![BakedBafauriCut](images/BakedBafauriUncut.jpg)
+<img src="./images/BakedBafauriUncut.jpg" alt="Uncut" width="300"/>
+
+<img src="./images/BakedBafauriCut.jpg" alt="Cut" width="300"/>
 
 ## Ingredients
 * Split-Moong daal (1 cup)
